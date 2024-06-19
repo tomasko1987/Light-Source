@@ -1,8 +1,8 @@
 #include <pgmspace.h>
  #define SECRET
 //WIFI
-const char WIFI_SSID[] = "oriesok";             
-const char WIFI_PASSWORD[] = "deX9hud6";           
+const char WIFI_SSID[] = "";             
+const char WIFI_PASSWORD[] = "";           
  
 // Local Home Assistant MQTT Broker
 const char* HA_MQTT_SERVER = ""; // Local MQTT server IP Address
